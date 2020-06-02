@@ -1,10 +1,8 @@
-title: Texture Theme
-author: GitHub User
-email: your-email@domain.com
+title: 午夜随笔-我只关心我想关心的
+author: Jown Shin
+email: big_shin@126.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  不一定是午夜,但一定是想到哪就写到哪,也许对也许不对,只要我还能继续写下去.
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: /texture
 
@@ -15,12 +13,12 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: 午夜随想
+  tagline: 想到哪就写到哪
   date_format: "%b %-d, %Y"
   style: black
-  showNav: false
-  showPicker: true
+  showNav: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
