@@ -42,10 +42,10 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Jown Shin
-  email:               big_shin@126.com
+  name:                <Jown> <Shin>
+  email:               <big_shin@126.com>
   # Used by `jekyll-seo-tag`:
-  twitter:             Shin112255
+  twitter:             <shin11227>
 
 # Add links to the sidebar.
 menu:
