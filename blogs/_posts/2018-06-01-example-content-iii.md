@@ -82,7 +82,7 @@ A caption to an image.
 {:.lead}
 
 ## Faded text
-I'm faded, faded, faded.
+I'm faded, faded, faded
 {:.faded}
 
 
