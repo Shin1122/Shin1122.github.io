@@ -1,8 +1,10 @@
-title: 午夜任性随笔
-author: Jown Shin
-email: big_shin@126.com
+title: Texture Theme
+author: GitHub User
+email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  不定是在午夜记录,但是一定是想到哪就写到哪,如果还有时间和精力的话.
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: /texture
 
