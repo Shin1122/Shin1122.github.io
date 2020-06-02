@@ -45,7 +45,7 @@ author:
   name:                <Jown> <Shin>
   email:               <big_shin@126.com>
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             Shin112255
 
 # Add links to the sidebar.
 menu:
@@ -293,11 +293,11 @@ remote_theme: qwtel/hydejack@v8.5.0
 #   admins:              <id>
 
 # Used on index and about sites
-social:
-  name:                <firstname> <lastname>
-  links:
-    - https://twitter.com/<Shin112255>
-    - https://github.com/<Shin1122>
+# social:
+#   name:                <firstname> <lastname>
+#   links:
+#     - https://twitter.com/<username>
+#     - https://github.com/<username>
 
 
 # Other Plugins
