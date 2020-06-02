@@ -42,10 +42,10 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <Jown> <Shin>
-  email:               <big_shin@126.com>
+  name:                Jown Shin
+  email:               big_shin@126.com
   # Used by `jekyll-seo-tag`:
-  twitter:             <Shin112255>
+  twitter:             Shin112255
 
 # Add links to the sidebar.
 menu:
@@ -283,8 +283,8 @@ remote_theme: qwtel/hydejack@v8.5.0
 #   yandex:              <verification-id>
 
 # Used for Twitter cards
-# twitter:
-#   username:            <shortname>
+twitter:
+  username:            Shin112255
 
 # Used for Facebook open graph
 # facebook:
@@ -293,8 +293,8 @@ remote_theme: qwtel/hydejack@v8.5.0
 #   admins:              <id>
 
 # Used on index and about sites
-social:
-  name:                <firstname> <lastname>
+# social:
+  name:                Jown Shin
   links:
     - https://twitter.com/Shin112255
     - https://github.com/Shin1122
